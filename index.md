@@ -1,5 +1,12 @@
-Check my **social media** at  
+---
+layout: default
+---
 
-Twitter: [@anjosdev](https://twitter.com/anjosdev/)  
-Instagram: [@anjosdev](https://instagram.com/anjosdev/)  
-LinkedIn: [linkedin.com/in/anjosdev/](https://linkedin.com/in/anjosdev/)  
+Check my blog at [blog.anjos.dev](https://blog.anjos.dev) 
+
+Instagram: @anjosdev  
+LinkedIn: /in/anjosdev  
+Twitter: @anjosdev  
+
+
+

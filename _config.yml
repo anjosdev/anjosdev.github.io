@@ -1,2 +1,5 @@
 title: anjosdev
+description: software developer
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-hacker
