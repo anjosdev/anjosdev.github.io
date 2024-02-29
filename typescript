@@ -92,4 +92,67 @@ Configuration file: /home/anjosdev/Projects/anjosdev.github.io/_config.yml
       Generating... 
                     done in 0.047 seconds.
  Auto-regeneration: enabled for '/home/anjosdev/Projects/anjosdev.github.io'
-    Server address: http://127.0.0.1
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2024-02-28 23:55:14
+                    typescript
+                    ...done in 0.019678107 seconds.
+                    
+^C[1m[7m%[27m[1m[0m                                                                        [0m[27m[24m[J[0m[49m[39m[0m[49m[39m[0m[49m[39m[0m[49m [0m[49m[38;5;31m [1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[38;5;103mP[0m[38;5;103m[49m[38;5;31m/[1m[38;5;31m[38;5;39manjosdev.github.io[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m [38;5;76m main [38;5;39m?3[0m[38;5;39m[49m[38;5;76m[0m[38;5;76m[49m [0m[38;5;76m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[14C[0m[49m[38;5;101m 27s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;66m  23:55:41[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[39m[30D[?2004hbundle exec jekyll serve[K[?25l[?2004l[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m bundle exec jekyll serve[K[?25h
+Configuration file: /home/anjosdev/Projects/anjosdev.github.io/_config.yml
+ Theme Config file: /home/anjosdev/Projects/anjosdev.github.io/_config.yml
+            Source: /home/anjosdev/Projects/anjosdev.github.io
+       Destination: /home/anjosdev/Projects/anjosdev.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.056 seconds.
+ Auto-regeneration: enabled for '/home/anjosdev/Projects/anjosdev.github.io'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+^C[1m[7m%[27m[1m[0m                                                                                                                                                   [0m[27m[24m[J[0m[49m[39m[0m[49m[39m[0m[49m[39m[0m[49m [0m[49m[38;5;31m [1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/Projects/[1m[38;5;31m[38;5;39manjosdev.github.io[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;178m[0m[38;5;178m[49m[38;5;76m[0m[38;5;76m[49m[38;5;178m [38;5;76m main [38;5;178m!1 [38;5;39m?3[0m[38;5;39m[49m[38;5;178m[0m[38;5;178m[49m [0m[38;5;178m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[79C[0m[49m[38;5;101m 51s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;66m  23:56:33[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[39m[95D[?2004hbundle exec jekyll serve[?25l[?2004l[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m bundle exec jekyll serve[K[?25h
+Configuration file: /home/anjosdev/Projects/anjosdev.github.io/_config.yml
+ Theme Config file: /home/anjosdev/Projects/anjosdev.github.io/_config.yml
+            Source: /home/anjosdev/Projects/anjosdev.github.io
+       Destination: /home/anjosdev/Projects/anjosdev.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.053 seconds.
+ Auto-regeneration: enabled for '/home/anjosdev/Projects/anjosdev.github.io'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.3.3   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/jekyll-4.3.3/lib/jekyll/commands/serve.rb:286:in `join': [1mSIGTERM ([1;4mSignalException[m[1m)[m
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/jekyll-4.3.3/lib/jekyll/commands/serve.rb:286:in `boot_or_detach'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/jekyll-4.3.3/lib/jekyll/commands/serve.rb:223:in `start_up_webrick'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/jekyll-4.3.3/lib/jekyll/commands/serve.rb:102:in `process'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/jekyll-4.3.3/lib/jekyll/command.rb:91:in `block in process_with_graceful_fail'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/jekyll-4.3.3/lib/jekyll/command.rb:91:in `each'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/jekyll-4.3.3/lib/jekyll/command.rb:91:in `process_with_graceful_fail'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/jekyll-4.3.3/lib/jekyll/commands/serve.rb:86:in `block (2 levels) in init_with_program'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `block in execute'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `each'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `execute'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in `go'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/mercenary-0.4.0/lib/mercenary.rb:21:in `program'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/jekyll-4.3.3/exe/jekyll:15:in `<top (required)>'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/bin/jekyll:25:in `load'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/bin/jekyll:25:in `<top (required)>'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.5.6/lib/bundler/cli/exec.rb:58:in `load'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.5.6/lib/bundler/cli/exec.rb:58:in `kernel_load'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.5.6/lib/bundler/cli/exec.rb:23:in `run'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.5.6/lib/bundler/cli.rb:451:in `exec'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.5.6/lib/bundler/vendor/thor/lib/thor/command.rb:28:in `run'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.5.6/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in `invoke_command'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.5.6/lib/bundler/vendor/thor/lib/thor.rb:527:in `dispatch'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.5.6/lib/bundler/cli.rb:34:in `dispatch'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.5.6/lib/bundler/vendor/thor/lib/thor/base.rb:584:in `start'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.5.6/lib/bundler/cli.rb:28:in `start'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.5.6/exe/bundle:28:in `block in <top (required)>'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.5.6/lib/bundler/friendly_errors.rb:117:in `with_friendly_errors'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.5.6/exe/bundle:20:in `<top (required)>'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/bin/bundle:25:in `load'
+	from /home/anjosdev/.asdf/installs/ruby/3.1.4/bin/bundle:25:in `<main>'
+[1m[7m%[27m[1m[0m                                                                                                                                                   [0m[27m[24m[J[0m[49m[39m[0m[49m[39m[0m[49m[39m[0m[49m [0m[49m[38;5;31m [1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/Projects/[1m[38;5;31m[38;5;39m
