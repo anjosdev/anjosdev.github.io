@@ -1,0 +1,95 @@
+Script started on 2024-02-28 23:53:55-03:00 [TERM="tmux-256color" TTY="/dev/pts/3" COLUMNS="72" LINES="18"]
+[0m[49m[39m[27m[24m[K
+[1A7[0m[49m[39m[0m[49m[39m[0m[49m[39m[0m[49m [0m[49m[38;5;31m [1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[38;5;103mP[0m[38;5;103m[49m[38;5;31m/[1m[38;5;31m[38;5;39manjosdev.github.io[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[?2004h[?25l8[0m[38;5;31m[49m[39m[27m[24m[J[0m[27m[24m[J[0m[49m[39m[0m[49m[39m[0m[49m[39m[0m[49m [0m[49m[38;5;31m [1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[38;5;103mP[0m[38;5;103m[49m[38;5;31m/[1m[38;5;31m[38;5;39manjosdev.github.io[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m [38;5;76m main [38;5;39m?1[0m[38;5;39m[49m[38;5;76m[0m[38;5;76m[49m [0m[38;5;76m[49m[38;5;196m❯[0m[38;5;196m[49m[38;5;196m[0m[38;5;196m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[20C[0m[49m[38;5;66m 23:53:55[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[39m[30D[?25h[?2004hscript;bootstrap [90mp[39m [39m [90map[39m [39m [39m [90mrap[39m [39m [39m [39m [90mtrap[39m [39m [39m [39m [39m [90mstrap[39m [39m [39m [39m [39m [39m [90mtstrap[39m [39m [39m [39m [39m [39m [39m [90motstrap[39m [39m [39m [39m [39m [39m [39m [39m [8D[90mootstrap[39m[8D [39m [39m [39m [39m [39m [39m [39m [39m [9D[90mbootstrap[39m[9D [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[90m;bootstrap[39m[10D[39m/[39m [39m [39m [39m [39m [39m [39m [39m [39m [9Dbootstrap[?25l[?2004l[0m[27m[24m[J[0m[49m[27m[24m[38;5;196m❯[0m[38;5;196m[49m[39m[27m[24m script/bootstrap[K[?25h
+Fetching bundler-2.5.6.gem
+Successfully installed bundler-2.5.6
+Parsing documentation for bundler-2.5.6
+Installing ri documentation for bundler-2.5.6
+Done installing documentation for bundler after 0 seconds
+1 gem installed
+Fetching gem metadata from https://rubygems.org/..........
+Resolving dependencies...
+[32mFetching mutex_m 0.2.0[0m
+[32mFetching ffi 1.16.3[0m
+[32mFetching unicode-display_width 2.5.0[0m
+[32mFetching rouge 4.2.0[0m
+[32mFetching json 2.7.1[0m
+[32mFetching base64 0.2.0[0m
+[32mFetching bigdecimal 3.1.6[0m
+[32mFetching minitest 5.22.2[0m
+[32mFetching concurrent-ruby 1.2.3[0m
+[32mFetching connection_pool 2.4.1[0m
+[32mFetching google-protobuf 3.25.3 (x86_64-linux)[0m
+[32mFetching racc 1.7.3[0m
+[32mFetching regexp_parser 2.9.0[0m
+[32mFetching rack 3.0.9.1[0m
+[32mFetching public_suffix 5.0.4[0m
+[32mFetching parallel 1.24.0[0m
+[32mInstalling mutex_m 0.2.0[0m
+[32mFetching drb 2.2.0[0m
+[32mInstalling unicode-display_width 2.5.0[0m
+[32mInstalling ffi 1.16.3 with native extensions[0m
+[32mInstalling json 2.7.1 with native extensions[0m
+[32mInstalling base64 0.2.0[0m
+[32mInstalling bigdecimal 3.1.6 with native extensions[0m
+[32mInstalling minitest 5.22.2[0m
+[32mInstalling rouge 4.2.0[0m
+[32mInstalling connection_pool 2.4.1[0m
+[32mInstalling concurrent-ruby 1.2.3[0m
+[32mInstalling racc 1.7.3 with native extensions[0m
+[32mInstalling regexp_parser 2.9.0[0m
+[32mInstalling rack 3.0.9.1[0m
+[32mInstalling parallel 1.24.0[0m
+[32mInstalling drb 2.2.0[0m
+[32mInstalling public_suffix 5.0.4[0m
+[32mFetching addressable 2.8.6[0m
+[32mInstalling addressable 2.8.6[0m
+[32mInstalling google-protobuf 3.25.3 (x86_64-linux)[0m
+[32mFetching sass-embedded 1.71.1 (x86_64-linux-gnu)[0m
+[32mInstalling sass-embedded 1.71.1 (x86_64-linux-gnu)[0m
+[32mFetching parser 3.3.0.5[0m
+[32mFetching nokogiri 1.16.2 (x86_64-linux)[0m
+[32mInstalling parser 3.3.0.5[0m
+[32mFetching rubocop-ast 1.30.0[0m
+[32mInstalling rubocop-ast 1.30.0[0m
+[32mInstalling nokogiri 1.16.2 (x86_64-linux)[0m
+[32mFetching rubocop 1.60.2[0m
+[32mInstalling rubocop 1.60.2[0m
+[32mFetching rubocop-performance 1.20.2[0m
+[32mInstalling rubocop-performance 1.20.2[0m
+[32mFetching listen 3.9.0[0m
+[32mFetching typhoeus 1.4.1[0m
+[32mInstalling listen 3.9.0[0m
+[32mFetching jekyll 4.3.3[0m
+[32mInstalling typhoeus 1.4.1[0m
+[32mInstalling jekyll 4.3.3[0m
+[32mFetching activesupport 7.1.3.2[0m
+[32mInstalling activesupport 7.1.3.2[0m
+[32mFetching rubocop-rails 2.23.1[0m
+[32mInstalling rubocop-rails 2.23.1[0m
+[32mBundle complete! 4 Gemfile dependencies, 62 gems now installed.[0m
+[32mUse `bundle info [gemname]` to see where a bundled gem is installed.[0m
+1 installed gem you directly depend on is looking for funding.
+  Run `bundle fund` for details
+[1m[7m%[27m[1m[0m                                                                        [0m[27m[24m[J[0m[49m[39m[0m[49m[39m[0m[49m[39m[0m[49m [0m[49m[38;5;31m [1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[38;5;103mP[0m[38;5;103m[49m[38;5;31m/[1m[38;5;31m[38;5;39manjosdev.github.io[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m [38;5;76m main [38;5;39m?2[0m[38;5;39m[49m[38;5;76m[0m[38;5;76m[49m [0m[38;5;76m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[14C[0m[49m[38;5;101m 16s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;66m  23:54:16[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[39m[30D[?2004hbbundle exec je[Kkyu ll serve[?25l[?2004l[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m bundle exec jekyll serve[K[?25h
+Configuration file: /home/anjosdev/Projects/anjosdev.github.io/_config.yml
+ Theme Config file: /home/anjosdev/Projects/anjosdev.github.io/_config.yml
+            Source: /home/anjosdev/Projects/anjosdev.github.io
+       Destination: /home/anjosdev/Projects/anjosdev.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.068 seconds.
+ Auto-regeneration: enabled for '/home/anjosdev/Projects/anjosdev.github.io'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+[2024-02-28 23:54:30] ERROR `/favicon.ico' not found.
+^C[1m[7m%[27m[1m[0m                                                                        [0m[27m[24m[J[0m[49m[39m[0m[49m[39m[0m[49m[39m[0m[49m [0m[49m[38;5;31m [1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/[38;5;103mP[0m[38;5;103m[49m[38;5;31m/[1m[38;5;31m[38;5;39manjosdev.github.io[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;76m [38;5;76m main [38;5;39m?3[0m[38;5;39m[49m[38;5;76m[0m[38;5;76m[49m [0m[38;5;76m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[14C[0m[49m[38;5;101m 50s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;66m  23:55:13[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[38;5;66m[0m[38;5;66m[49m[39m[30D[?2004hbundle exec jekyll serve[K[?25l[?2004l[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m bundle exec jekyll serve[K[?25h
+Configuration file: /home/anjosdev/Projects/anjosdev.github.io/_config.yml
+ Theme Config file: /home/anjosdev/Projects/anjosdev.github.io/_config.yml
+            Source: /home/anjosdev/Projects/anjosdev.github.io
+       Destination: /home/anjosdev/Projects/anjosdev.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.047 seconds.
+ Auto-regeneration: enabled for '/home/anjosdev/Projects/anjosdev.github.io'
+    Server address: http://127.0.0.1
